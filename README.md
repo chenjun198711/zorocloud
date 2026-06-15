@@ -1,5 +1,5 @@
 # zorocloud
-ZoroCloud是全球知名的原生双ISP、优质国际线路云服务器：高性价比VPS、网速更快更稳定、AI和流媒体解锁
+ZoroCloud是全球知名的原生双ISP、优质国际线路云服务器：高性价比VPS、网速更快更稳定、AI和流媒体等全解锁
 # ZoroCloud 全球原生双ISP云服务器：高性价比VPS，稳定流媒体解锁
 
 找VPS的时候，满屏的服务商，选谁？今天聊聊 ZoroCloud，2023年成立，时间不长，但在圈子里口碑已经起来了。
@@ -129,4 +129,4 @@ Q: 适合建站吗？
 A: 香港 CN2 GIA 和美国 CN2 GIA 高防都很合适，延迟低、速度快，面向国内用户的海外站点首选。
 
 
-🔗 购买官网：[官网](https://my.zorocloud.com/aff.php?aff=958&pid=30)
+🔗 购买官网：[官网地址](https://my.zorocloud.com/aff.php?aff=958&pid=30)
